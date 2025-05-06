@@ -1,7 +1,7 @@
 # 👨‍💻 Salwan Mohamed Elsaied
 
 **Senior DevOps & Platform Engineer | Kubernetes | OpenShift | Automation Architect**  
-📍 Based in Egypt | 🌐 [LinkedIn](https://www.linkedin.com/in/salwan-mohamed) | 📧 salwan.mohamed@example.com
+📍 Based in Egypt | 🌐 [LinkedIn](https://www.linkedin.com/in/salwan-mohamed) | 📧 salwan.m.saied@gmail.com
 
 ---
 
