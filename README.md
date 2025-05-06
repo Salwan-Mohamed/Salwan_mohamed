@@ -65,7 +65,7 @@ A structured automation project using Ansible for dynamic service provisioning a
 
 ## 📬 Contact
 
-- 📧 **Email**: salwan.mohamed@example.com  
+- 📧 **Email**: salwan.m.saied@gmail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/salwan-mohamed](https://www.linkedin.com/in/salwan-mohamed)
 
 ---
