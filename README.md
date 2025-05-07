@@ -7,7 +7,7 @@
 
 ## 🔹 About Me
 
-I’m a **Senior DevOps Engineer** with deep platform expertise in **Kubernetes, OpenShift, and Ansible**, delivering resilient infrastructure and automated CI/CD systems for enterprise-scale environments. With a strong networking background (CCNP-certified), I architect end-to-end DevOps pipelines and platform solutions tailored for hybrid, multi-cluster, and highly available deployments.
+I’m a **Senior DevOps & Platform Engineer** with 3+ years of experience in building cloud-native, highly available infrastructure—primarily Kubernetes and OpenShift—integrated with **Cisco ACI**, **enterprise storage systems**, and full GitOps-based automation. Before that, I spent 5+ years as a **Network, Security, and Datacenter Engineer**, designing fault-tolerant systems and managing large-scale networks. I specialize in **network automation**, high availability, and secure, multi-cluster platforms.
 
 ---
 
@@ -20,16 +20,16 @@ I’m a **Senior DevOps Engineer** with deep platform expertise in **Kubernetes,
 ## 🛠️ Core Skills & Tools
 
 - **Containers & Orchestration**: Kubernetes, OpenShift, Helm, Kustomize  
-- **Automation**: Ansible Core, AWX, Terraform (basics)  
-- **CI/CD**: GitLab CI/CD, GitHub Actions  
-- **Networking**: Cisco ACI, CCNP (Routing & Switching, Data Center)  
+- **Automation**: Ansible Core, AWX, Terraform  
+- **CI/CD**: GitLab CI/CD, GitHub Actions, ArgoCD  
+- **Networking**: Cisco ACI, Network Automation (Ansible), CCNP (Routing & Switching, Data Center)  
 - **Cloud & Infra**: AWS, Hybrid Cloud, Dell EMC Unity Storage  
-- **Monitoring**: Prometheus, Grafana  
-- **IaC/GitOps**: GitOps principles using ArgoCD, Ansible Automation
+- **Monitoring**: Prometheus, Grafana, Alertmanager  
+- **IaC/GitOps**: GitOps principles using ArgoCD, Ansible, Terraform
 
 ---
 
-## 🧩 Certifications
+## 🧹 Certifications
 
 - ✅ **CKA** – Certified Kubernetes Administrator  
 - ✅ **CKAD** – Certified Kubernetes Application Developer  
@@ -52,7 +52,7 @@ I’m a **Senior DevOps Engineer** with deep platform expertise in **Kubernetes,
 
 ### 🔸 Network Automation Across 3 Branches  
 - Automated network configuration for all switches, firewalls, and routers using **Ansible Core** and **AWX**  
-- Reduced manual effort by 80% and increased change deployment safety across remote branches  
+- Reduced manual effort by 80% and increased change deployment safety across remote branches
 
 ---
 
@@ -75,8 +75,8 @@ A structured automation project using Ansible for dynamic service provisioning a
 | Category         | Tools / Skills                                 |
 |------------------|-------------------------------------------------|
 | Platform Ops     | Kubernetes, OpenShift, HA Clusters              |
-| Automation       | Ansible, AWX, GitOps                            |
-| CI/CD            | GitHub Actions, GitLab CI/CD                    |
-| Networking       | Cisco ACI, CCNP (R&S + DC), Dell Unity Storage |
+| Automation       | Ansible, AWX, GitOps, Terraform                 |
+| CI/CD            | GitHub Actions, GitLab CI/CD, ArgoCD           |
+| Networking       | Cisco ACI, Network Automation, CCNP (R&S + DC) |
 | Cloud & Hybrid   | AWS, On-prem, Multi-cluster                     |
-| Monitoring       | Prometheus, Grafana                             |
+| Monitoring       | Prometheus, Grafana, Alertmanager               |
